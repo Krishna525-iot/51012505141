@@ -1,0 +1,7 @@
+../Core/Src/input_manager.c:20:6:update_cursor	1
+../Core/Src/input_manager.c:29:6:enqueue_event	3
+../Core/Src/input_manager.c:45:5:dequeue_event	3
+../Core/Src/input_manager.c:57:6:process_input_events	2
+../Core/Src/input_manager.c:78:6:handle_input	3
+../Core/Src/input_manager.c:87:6:debugQueueState	1
+../Core/Src/input_manager.c:94:6:display_uptime_and_return	3

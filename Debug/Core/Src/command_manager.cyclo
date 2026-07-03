@@ -1,0 +1,9 @@
+../Core/Src/command_manager.c:8:6:CommandManager_Init	1
+../Core/Src/command_manager.c:13:6:send_command	3
+../Core/Src/command_manager.c:22:6:send_intensity_command	2
+../Core/Src/command_manager.c:36:6:send_color_command	4
+../Core/Src/command_manager.c:49:6:send_lamp_command	1
+../Core/Src/command_manager.c:55:6:send_endo_command	1
+../Core/Src/command_manager.c:61:6:send_cam_command	1
+../Core/Src/command_manager.c:67:6:send_depth_command	1
+../Core/Src/command_manager.c:75:6:send_focus_command	4

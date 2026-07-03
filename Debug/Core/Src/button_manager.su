@@ -1,0 +1,2 @@
+../Core/Src/button_manager.c:22:6:ButtonManager_Init	16	static
+../Core/Src/button_manager.c:37:6:ButtonManager_HandleInterrupt	40	static
